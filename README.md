@@ -1,8 +1,8 @@
 # Custom Umbrella - Upload Your Logo and Preview Instantly
 
-It's a Ui assignment app for Star Apps Studio
+## It's a UI assignment app for Star Apps Studio
 
-Live Link: [Custom Umbreall](https://custom-wallpaper.netlify.app/)
+##  Live Link: [Custom Umbreall](https://custom-wallpaper.netlify.app/)
 
 ## Preview of App
 
