@@ -2,7 +2,7 @@
 
 ## It's a UI assignment app for Star Apps Studio
 
-##  Live Link: [Custom Umbreall](https://custom-wallpaper.netlify.app/)
+##  Live Link: [Custom Umbrell](https://custom-wallpaper.netlify.app/)
 
 ## Preview of App
 
